@@ -1,0 +1,619 @@
+[
+  {
+    "name": "phone",
+    "price": 1154,
+    "featured": true,
+    "company": "samsung"
+  },
+  {
+    "name": "watch",
+    "price": 1304,
+    "featured": true,
+    "company": "apple"
+  },
+  {
+    "name": "phone",
+    "price": 190,
+    "company": "mi"
+  },
+  {
+    "name": "iphone10",
+    "price": 1231,
+    "featured": true,
+    "company": "apple"
+  },
+  {
+    "name": "earbuds",
+    "price": 154,
+    "featured": true,
+    "company": "apple"
+  },
+  {
+    "name": "laptop",
+    "price": 1444,
+    "company": "dell"
+  },
+  {
+    "name": "tv",
+    "price": 1800,
+    "featured": false,
+    "company": "mi"
+  },
+  {
+    "name": "smartphone",
+    "price": 1200,
+    "featured": true,
+    "rating": 4.5,
+    "company": "samsung"
+  },
+  {
+    "name": "smartwatch",
+    "price": 999,
+    "featured": true,
+    "rating": 4.7,
+    "company": "apple"
+  },
+  {
+    "name": "smartphone",
+    "price": 850,
+    "rating": 3.9,
+    "company": "mi"
+  },
+  {
+    "name": "iphoneX",
+    "price": 1400,
+    "featured": true,
+    "rating": 4.8,
+    "company": "apple"
+  },
+  {
+    "name": "wireless earbuds",
+    "price": 250,
+    "featured": true,
+    "rating": 4.1,
+    "company": "apple"
+  },
+  {
+    "name": "gaming laptop",
+    "price": 2200,
+    "rating": 4.3,
+    "company": "dell"
+  },
+  {
+    "name": "4K TV",
+    "price": 1800,
+    "featured": false,
+    "rating": 3.8,
+    "company": "mi"
+  },
+  {
+    "name": "tablet",
+    "price": 1200,
+    "featured": true,
+    "rating": 4.6,
+    "company": "samsung"
+  },
+  {
+    "name": "bluetooth speaker",
+    "price": 350,
+    "featured": true,
+    "rating": 4.5,
+    "company": "apple"
+  },
+  {
+    "name": "gaming desktop",
+    "price": 2900,
+    "featured": true,
+    "rating": 4.9,
+    "company": "dell"
+  },
+  {
+    "name": "OLED TV",
+    "price": 2100,
+    "featured": true,
+    "rating": 4.7,
+    "company": "samsung"
+  },
+  {
+    "name": "fitness tracker",
+    "price": 280,
+    "featured": true,
+    "rating": 4.2,
+    "company": "mi"
+  },
+  {
+    "name": "laptop",
+    "price": 1600,
+    "featured": false,
+    "rating": 4.4,
+    "company": "dell"
+  },
+  {
+    "name": "wireless charger",
+    "price": 150,
+    "featured": true,
+    "rating": 4.0,
+    "company": "apple"
+  },
+  {
+    "name": "smartphone",
+    "price": 1800,
+    "featured": false,
+    "rating": 4.3,
+    "company": "samsung"
+  },
+  {
+    "name": "noise-canceling headphones",
+    "price": 320,
+    "featured": true,
+    "rating": 4.6,
+    "company": "apple"
+  },
+    {
+      "name": "smartphone",
+      "price": 1700,
+      "featured": true,
+      "rating": 4.4,
+      "company": "samsung"
+    },
+    {
+      "name": "smartwatch",
+      "price": 1150,
+      "featured": true,
+      "rating": 4.8,
+      "company": "apple"
+    },
+    {
+      "name": "laptop",
+      "price": 2000,
+      "featured": false,
+      "rating": 4.7,
+      "company": "dell"
+    },
+    {
+      "name": "earbuds",
+      "price": 200,
+      "featured": true,
+      "rating": 4.3,
+      "company": "apple"
+    },
+    {
+      "name": "4K TV",
+      "price": 1600,
+      "featured": true,
+      "rating": 4.5,
+      "company": "mi"
+    },
+    {
+      "name": "gaming monitor",
+      "price": 500,
+      "featured": true,
+      "rating": 4.6,
+      "company": "dell"
+    },
+    {
+      "name": "tablet",
+      "price": 700,
+      "featured": true,
+      "rating": 4.1,
+      "company": "samsung"
+    },
+    {
+      "name": "fitness band",
+      "price": 100,
+      "featured": true,
+      "rating": 4.2,
+      "company": "mi"
+    },
+    {
+      "name": "desktop",
+      "price": 1500,
+      "featured": false,
+      "rating": 4.4,
+      "company": "dell"
+    },
+    {
+      "name": "smart speaker",
+      "price": 200,
+      "featured": true,
+      "rating": 4.3,
+      "company": "apple"
+    },
+    {
+      "name": "gaming laptop",
+      "price": 1800,
+      "featured": true,
+      "rating": 4.9,
+      "company": "dell"
+    },
+    {
+      "name": "wireless keyboard",
+      "price": 100,
+      "featured": false,
+      "rating": 4.0,
+      "company": "apple"
+    },
+    {
+      "name": "noise-canceling headphones",
+      "price": 250,
+      "featured": true,
+      "rating": 4.7,
+      "company": "samsung"
+    },
+    {
+      "name": "smart TV",
+      "price": 1900,
+      "featured": true,
+      "rating": 4.6,
+      "company": "samsung"
+    },
+    {
+      "name": "wireless charger",
+      "price": 120,
+      "featured": false,
+      "rating": 4.1,
+      "company": "apple"
+    },
+    {
+      "name": "gaming mouse",
+      "price": 80,
+      "featured": true,
+      "rating": 4.5,
+      "company": "dell"
+    },
+    {
+      "name": "smartphone",
+      "price": 950,
+      "featured": true,
+      "rating": 4.2,
+      "company": "mi"
+    },
+    {
+      "name": "bluetooth speaker",
+      "price": 300,
+      "featured": true,
+      "rating": 4.4,
+      "company": "apple"
+    },
+    {
+      "name": "smartphone",
+      "price": 1350,
+      "featured": false,
+      "rating": 4.3,
+      "company": "samsung"
+    },
+    {
+      "name": "smartwatch",
+      "price": 1050,
+      "featured": true,
+      "rating": 4.7,
+      "company": "apple"
+    },
+    {
+      "name": "4K TV",
+      "price": 2100,
+      "featured": false,
+      "rating": 4.6,
+      "company": "mi"
+    },
+    {
+      "name": "gaming headset",
+      "price": 220,
+      "featured": true,
+      "rating": 4.7,
+      "company": "dell"
+    },
+    {
+      "name": "tablet",
+      "price": 950,
+      "featured": true,
+      "rating": 4.3,
+      "company": "samsung"
+    },
+    {
+      "name": "smart TV",
+      "price": 1750,
+      "featured": true,
+      "rating": 4.5,
+      "company": "samsung"
+    },
+    {
+      "name": "laptop",
+      "price": 2100,
+      "featured": true,
+      "rating": 4.8,
+      "company": "dell"
+    },
+    {
+      "name": "wireless charger",
+      "price": 130,
+      "featured": false,
+      "rating": 4.0,
+      "company": "apple"
+    },
+    {
+      "name": "smartphone",
+      "price": 1200,
+      "featured": true,
+      "rating": 4.4,
+      "company": "mi"
+    },
+    {
+      "name": "noise-canceling headphones",
+      "price": 320,
+      "featured": true,
+      "rating": 4.6,
+      "company": "apple"
+    },
+    {
+      "name": "OLED TV",
+      "price": 2200,
+      "featured": true,
+      "rating": 4.7,
+      "company": "samsung"
+    },
+    {
+      "name": "gaming keyboard",
+      "price": 120,
+      "featured": true,
+      "rating": 4.4,
+      "company": "dell"
+    },
+    {
+      "name": "fitness tracker",
+      "price": 110,
+      "featured": false,
+      "rating": 4.2,
+      "company": "mi"
+    },{
+      "name": "gaming console",
+      "price": 400,
+      "company": "sony"
+    },
+    {
+      "name": "laptop",
+      "price": 1400,
+      "featured": true,
+      "rating": 4.5,
+      "company": "lenovo"
+    },
+    {
+      "name": "tablet",
+      "price": 900,
+      "company": "hp"
+    },
+    {
+      "name": "smart speaker",
+      "price": 250,
+      "featured": true,
+      "rating": 4.4,
+      "company": "google"
+    },
+    {
+      "name": "laptop",
+      "price": 1800,
+      "company": "microsoft"
+    },
+    {
+      "name": "smartphone",
+      "price": 1200,
+      "company": "oneplus"
+    },
+    {
+      "name": "gaming laptop",
+      "price": 2300,
+      "featured": false,
+      "rating": 4.8,
+      "company": "asus"
+    },
+    {
+      "name": "smartphone",
+      "price": 850,
+      "company": "huawei"
+    },
+    {
+      "name": "fitness band",
+      "price": 150,
+      "company": "motorola"
+    },
+    {
+      "name": "tablet",
+      "price": 650,
+      "featured": true,
+      "company": "realme"
+    },
+    {
+      "name": "smartphone",
+      "price": 1700,
+      "company": "sony"
+    },
+    {
+      "name": "gaming desktop",
+      "price": 2500,
+      "featured": true,
+      "company": "asus"
+    },
+    {
+      "name": "noise-canceling headphones",
+      "price": 320,
+      "company": "sony"
+    },
+    {
+      "name": "smartphone",
+      "price": 900,
+      "company": "oneplus"
+    },
+    {
+      "name": "laptop",
+      "price": 2200,
+      "rating": 4.7,
+      "company": "hp"
+    },
+    {
+      "name": "smart TV",
+      "price": 2000,
+      "company": "sony"
+    },
+    {
+      "name": "gaming monitor",
+      "price": 450,
+      "company": "asus"
+    },
+    {
+      "name": "smartphone",
+      "price": 1100,
+      "company": "huawei"
+    },
+    {
+      "name": "laptop",
+      "price": 1300,
+      "company": "lenovo"
+    },
+    {
+      "name": "wireless earbuds",
+      "price": 150,
+      "company": "google"
+    },
+    {
+      "name": "smartwatch",
+      "price": 700,
+      "featured": true,
+      "company": "motorola"
+    },
+    {
+      "name": "tablet",
+      "price": 900,
+      "company": "realme"
+    },
+    {
+      "name": "smartphone",
+      "price": 2100,
+      "company": "oneplus"
+    },
+    {
+      "name": "gaming laptop",
+      "price": 2500,
+      "company": "asus"
+    },
+    {
+      "name": "smartphone",
+      "price": 950,
+      "company": "huawei"
+    },
+    {
+      "name": "gaming desktop",
+      "price": 2700,
+      "company": "sony"
+    },
+    {
+      "name": "laptop",
+      "price": 1950,
+      "company": "hp"
+    },
+    {
+      "name": "smartphone",
+      "price": 1300,
+      "company": "realme"
+    },
+    {
+      "name": "smart speaker",
+      "price": 220,
+      "featured": true,
+      "company": "google"
+    },
+    {
+      "name": "gaming headset",
+      "price": 180,
+      "company": "asus"
+    },
+    {
+      "name": "tablet",
+      "price": 750,
+      "company": "lenovo"
+    },
+    {
+      "name": "wireless charger",
+      "price": 120,
+      "company": "oneplus"
+    },
+    {
+      "name": "smart TV",
+      "price": 1800,
+      "company": "sony"
+    },
+    {
+      "name": "fitness band",
+      "price": 90,
+      "company": "motorola"
+    },
+    {
+      "name": "smartphone",
+      "price": 1400,
+      "company": "huawei"
+    },
+    {
+      "name": "laptop",
+      "price": 2300,
+      "company": "microsoft"
+    },
+    {
+      "name": "smartphone",
+      "price": 2100,
+      "company": "oneplus"
+    },
+    {
+      "name": "gaming laptop",
+      "price": 2400,
+      "company": "asus"
+    },
+    {
+      "name": "smartphone",
+      "price": 1100,
+      "company": "realme"
+    },
+    {
+      "name": "tablet",
+      "price": 1200,
+      "company": "lenovo"
+    },
+    {
+      "name": "gaming desktop",
+      "price": 2600,
+      "company": "sony"
+    },
+    {
+      "name": "laptop",
+      "price": 2000,
+      "company": "microsoft"
+    },
+    {
+      "name": "smartwatch",
+      "price": 950,
+      "company": "motorola"
+    },
+    {
+      "name": "noise-canceling headphones",
+      "price": 300,
+      "company": "sony"
+    },
+    {
+      "name": "smart TV",
+      "price": 2100,
+      "company": "google"
+    },
+    {
+      "name": "tablet",
+      "price": 800,
+      "company": "lenovo"
+    },
+    {
+      "name": "smartphone",
+      "price": 1150,
+      "company": "oneplus"
+    },
+    {
+      "name": "gaming headset",
+      "price": 250,
+      "company": "asus"
+    }
+]
